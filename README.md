@@ -16,4 +16,4 @@ Consider the full app design and development process from initial planning to fi
 While trying to get the database to work and be interactable on the second screen I had to do some research. I originally had it set in a grid view but while researching I learned it is easier to display a database like I wanted with a recycler View. Seeing that led me down a rabbit hole of how to properly impliment the recycler View with an adapter as well as another view of how items from the database will be shown on the screen. 
 
 In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
-Setting up the inventory databse was probably the best
+Setting up the inventory databse was probably the best. I spent time researching the process of how to display the database properly and then working in the recycler view to add all the elements needed for display and interactivity. I think it was a great showcase of my skills and use of my resources.
